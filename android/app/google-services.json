@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382688706574",
+    "project_id": "mytodoweb-7f17f",
+    "storage_bucket": "mytodoweb-7f17f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382688706574:android:fb9b7a863d5e73b71d3c5f",
+        "android_client_info": {
+          "package_name": "kelcalegari.mytodo.mytodoweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6LZlR_shZiKGrhZJax7Y5ZQJqLhwCzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

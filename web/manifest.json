@@ -1,0 +1,35 @@
+{
+    "name": "mytodoweb",
+    "short_name": "mytodoweb",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "O MyToDo é um aplicativo de gerenciamento de tarefas desenvolvido usando a tecnologia Flutter, que permite aos usuários organizar suas atividades diárias de maneira eficiente. O aplicativo está disponível tanto para dispositivos móveis quanto para navegadores web, proporcionando uma experiência consistente em várias plataformas.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
