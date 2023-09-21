@@ -292,6 +292,7 @@ class _BasicTaskViewState extends State<BasicTaskView> {
                         ),
                       ),
                     )
+
                   : Visibility(
                       visible:
                           filtered(controlerList, index, widget.currentType),
