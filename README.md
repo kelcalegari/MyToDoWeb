@@ -42,7 +42,7 @@ Aqui estão algumas capturas de tela das principais telas do MyToDo, mostrando a
 ### Página Inicial (Home)
 
 ![Página Inicial Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/homecomTaskWeb.png)
-![Página Inicial Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/homeWeb.png)
+![Página Inicial Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/HomeMobile.jpg)
 
 ### Adicionar Tarefa (Home)
 
