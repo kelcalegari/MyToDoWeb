@@ -1,6 +1,6 @@
 # MyToDo - Aplicativo de Tarefas Flutter Web e Mobile
 
-O MyToDo é um aplicativo de gerenciamento de tarefas desenvolvido usando a tecnologia Flutter, que permite aos usuários organizar suas atividades diárias de maneira eficiente. O aplicativo está disponível tanto para dispositivos móveis quanto para navegadores web, proporcionando uma experiência consistente em várias plataformas.
+O **MyToDo** é um aplicativo de gerenciamento de tarefas desenvolvido usando a tecnologia Flutter, que permite aos usuários organizar suas atividades diárias de maneira eficiente. O aplicativo está disponível tanto para dispositivos móveis quanto para navegadores web, proporcionando uma experiência consistente em várias plataformas.
 
 ## Recursos Principais
 
@@ -23,7 +23,7 @@ Você pode baixar a versão mais recente do MyToDo para dispositivos móveis aqu
 
 A versão web do MyToDo está hospedada no Firebase, e você pode acessá-la pelo link a seguir:
 
-[Acessar MyToDo Web](link_para_a_versao_web)
+[Acessar MyToDo Web](https://mytodoweb-7f17f.web.app/)
 
 ## Telas Principais
 
@@ -31,29 +31,43 @@ Aqui estão algumas capturas de tela das principais telas do MyToDo, mostrando a
 
 ### Tela de Login
 
-![Tela de Login](link_para_imagem_login)
+![Tela de Login Web ](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/loginWeb.png)
+![Tela de Login Mobile ](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/LoginMobile.jpg)
 
 ### Cadastro de Usuário
 
-![Cadastro de Usuário](link_para_imagem_cadastro)
+![Cadastro de Usuário Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/registrarWeb.png)
+![Cadastro de Usuário Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/CadastroMobile.jpg)
 
 ### Página Inicial (Home)
 
-![Página Inicial](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/homeWeb.png)
+![Página Inicial Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/homecomTaskWeb.png)
+![Página Inicial Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/homeWeb.png)
 
-### Lista Específica
+### Adicionar Tarefa (Home)
 
-![Lista Específica](link_para_imagem_lista)
+![Adicionar Tarefa Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/addtask2homeWeb.png)
+![Adicionar Tarefa Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/AddTaskMobile.jpg)
 
-### Adicionar Tarefa
+### Lista Específica (Lista Pessoal)
 
-![Adicionar Tarefa](link_para_imagem_adicionar_tarefa)
+![Lista Específica Web ](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/pessoaltaskWeb.png)
+![Lista Específica Visualizar Task Web ](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/pessoalVisualizarTaskWeb.png)
+![Lista Específica Mobile ](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/listaespecificaMobile.jpg)
+
+### Adicionar Tarefa (Lista Pessoal)
+
+![Adicionar Tarefa Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/pessoalAddTaskWeb.png)
+![Adicionar Tarefa Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/editTaskMobile.jpg)
 
 ### Configurações de Listas
 
-![Configurações de Listas](link_para_imagem_config_listas)
+![Configurações de Listas Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/configListWeb.png)
+![Configurações de Listas Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/configListasMobile.jpg)
+![Configurações de Lista Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/configListasMobile.jpg)
 
 ### Configurações de Conta
 
-![Configurações de Conta](link_para_imagem_config_conta)
+![Configurações de Conta Web](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/configUserWeb.png)
+![Configurações de Conta Mobile](https://github.com/kelcalegari/MyToDoWeb/blob/master/Imagens/ConfigCadastro.jpg)
 
